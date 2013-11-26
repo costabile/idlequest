@@ -1,0 +1,1 @@
+﻿Sword,Mace,Staff,Katana,Knife,Dagger,Fist,Sai,Morning Star,Hammer,Quarterstaff,Battleaxe,Spear,Poleaxe,Cutlass,Claymore,Longsword,Machete,Flail,Throwing Knife,Throwing Axe,Javelin,Whip,Saw,Chakram,Whipblade,Claw,Rapier,Epee
